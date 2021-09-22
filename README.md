@@ -12,3 +12,5 @@
 
  instalar nodemon de forma global 
  npm install -g nodemon
+
+ instalar motor renderizado HTML 
