@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+   "star":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan-sxs/app.git"
+  },
+  "author": "Johan Saico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan-sxs/app/issues"
+  },
+  "homepage": "https://github.com/johan-sxs/app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
